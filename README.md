@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Just4Danger, a learning hacker.<br>I currently work on Python as well as HTML + CSS projects.<br>I know a lot about software and hardware.<br>Feel free to take a peek into my website -> just4danger.nl
+I'm Just4Danger, a learning hacker.<br>Main focus here lies in python projects.<br>Feel free to take a peek into my website -> just4danger.nl
 
 
 ## 🌐 Socials:
